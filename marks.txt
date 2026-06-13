@@ -1,0 +1,5 @@
+Rahul  80
+Aman    40
+Rohan   30
+Riya       56
+Priya   70

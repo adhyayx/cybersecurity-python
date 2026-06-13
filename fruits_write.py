@@ -1,0 +1,5 @@
+f= open ("fruit.txt","w")
+f.write("Apple\n")
+f.write("Banana\n")
+f.write("Mango\n")
+f.close()
